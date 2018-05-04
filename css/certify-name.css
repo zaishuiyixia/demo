@@ -51,8 +51,7 @@
 	border: none;
 	border-bottom: 1px solid #939393;
 	padding-left: 0.1rem;
-	resize: none;
-box-sizing: border-box;
+	-webkit-appearance:none;
 }
 
 .main-container form>p {
