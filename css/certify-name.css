@@ -85,4 +85,15 @@
 	border: none;
 }
 
+@media (-webkit-min-device-pixel-ratio: 2) {
+    .main-container p input {
+        border-width: 1px;
+    }
+}
+
+@media (-webkit-min-device-pixel-ratio: 3) {
+    .main-container p input {
+        border-width: 1px;
+    }
+}
 
